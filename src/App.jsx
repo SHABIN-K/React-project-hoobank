@@ -25,6 +25,7 @@ const App = () => (
           <Hero/>
         </div>
       </div>
+      
       <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
         <div className={`${styles.boxWidth}`}>
          
