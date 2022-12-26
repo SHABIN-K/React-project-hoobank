@@ -1,9 +1,9 @@
-import React from 'react'
 
-const Clients = () => {
-  return (
-    <div>Clients</div>
+
+
+const Clients = () => (
+    <section id="clients">Clients</section>
   )
-}
+
 
 export default Clients
