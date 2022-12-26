@@ -32,6 +32,7 @@ const App = () => (
           <Stats/>
           <Business/>
           <Billing/>
+          <CardDeals/>
         </div>
       </div>
       
