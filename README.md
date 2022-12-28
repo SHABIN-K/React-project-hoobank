@@ -11,8 +11,7 @@ Modern UI/UX website using React.js & Tailwind CSS
 
 ### Credits
 
-- Thanks To JavaScript Mastery For  their youtube video 
-- [website](https://www.jsmastery.pro/)
+- Thanks To [JavaScript Mastery](https://www.jsmastery.pro) For  their youtube video 
 
 ##
 
