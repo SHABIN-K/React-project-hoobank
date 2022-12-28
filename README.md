@@ -8,5 +8,7 @@ Modern UI/UX website using React.js & Tailwind CSS
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
+#Installation
+
 
 
